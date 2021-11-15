@@ -1,0 +1,42 @@
+#bck{
+    background-image: url(./grocery-shopping.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+  
+}
+
+h1{
+    text-decoration: underline overline;
+    color: brown;
+    font-style: italic;
+    margin-left: 30%;
+}
+
+table, td{
+    border: 2px solid black;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:x-large;
+    
+
+}
+
+th{
+    color: white;
+    border: 2px solid black;
+    font-size:x-large;
+    text-align: center;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+#tbl{
+    margin-left: 9%;
+    }
+
+td{
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}

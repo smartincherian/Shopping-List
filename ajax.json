@@ -1,0 +1,94 @@
+{
+    "shopping":[
+
+        {
+            "Serialno" : "1",
+            "Name" : "Milk",
+            "Quantity" : "2",
+            "Unit" : "500ml",
+            "Department" : "Dairy",
+            "Notes" : "Milma"
+        },
+
+        {
+            "Serialno" : "2",
+            "Name" : "Tomato",
+            "Quantity" : "1",
+            "Unit" : "Kilograms",
+            "Department" : "Veggies",
+            "Notes" : "Fresh"
+        },
+
+        {
+            "Serialno" : "3",
+            "Name" : "Cucumber",
+            "Quantity" : "250",
+            "Unit" : "Grams",
+            "Department" : "Veggies",
+            "Notes" : "Fresh"
+        },
+
+        {
+            "Serialno" : "4",
+            "Name" : "Chicken",
+            "Quantity" : "2",
+            "Unit" : "Kilograms",
+            "Department" : "Meat",
+            "Notes" : "Curry pieces"
+        },
+
+        {
+            "Serialno" : "5",
+            "Name" : "Apple",
+            "Quantity" : "1",
+            "Unit" : "Kilograms",
+            "Department" : "Fruits",
+            "Notes" : "Red"
+        },
+
+        {
+            "Serialno" : "6",
+            "Name" : "Watermelon",
+            "Quantity" : "2",
+            "Unit" : "Kilograms",
+            "Department" : "Fruits",
+            "Notes" : "Fresh"
+        },
+
+        {
+            "Serialno" : "7",
+            "Name" : "Tea",
+            "Quantity" : "1",
+            "Unit" : "Kilograms",
+            "Department" : "Tea",
+            "Notes" : "Kannan Devan"
+        },
+
+        {
+            "Serialno" : "8",
+            "Name" : "Flour",
+            "Quantity" : "1",
+            "Unit" : "Kilograms",
+            "Department" : "Baking Goods",
+            "Notes" : "High quality"
+        },
+
+        {
+            "Serialno" : "9",
+            "Name" : "Shampoo",
+            "Quantity" : "1",
+            "Unit" : "Piece",
+            "Department" : "Beauty",
+            "Notes" : "Sun Silk"
+        },
+
+        {
+            "Serialno" : "10",
+            "Name" : "Ice Cream",
+            "Quantity" : "500",
+            "Unit" : "Millilitres",
+            "Department" : "Frozen",
+            "Notes" : "Arun"
+        }
+    ]
+}
